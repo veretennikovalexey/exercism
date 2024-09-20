@@ -1,3 +1,3 @@
 # exercism
 
-https://exercism.org/dashboard
+[exercism.org](https://exercism.org/dashboard)
