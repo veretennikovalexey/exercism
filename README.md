@@ -6,3 +6,8 @@
 
 [hello-world](https://veretennikovalexey.github.io/exercism/go/hello-world/)
 [HELP](https://veretennikovalexey.github.io/exercism/go/hello-world/HELP)
+
+## javascript
+
+[hello-world](https://veretennikovalexey.github.io/exercism/javascript/hello-world/)
+[HELP](https://veretennikovalexey.github.io/exercism/javascript/hello-world/HELP)
