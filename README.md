@@ -2,6 +2,8 @@
 
 [exercism.org](https://exercism.org/dashboard)
 
+![hello](https://assets.exercism.org/exercises/hello-world.svg)
+
 ## go
 
 [hello-world](https://veretennikovalexey.github.io/exercism/go/hello-world/)
