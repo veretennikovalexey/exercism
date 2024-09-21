@@ -5,6 +5,7 @@
 ![hello](https://assets.exercism.org/exercises/hello-world.svg) 
 ![lasagna](https://assets.exercism.org/exercises/lasagna.svg)
 ![annalyn](https://assets.exercism.org/exercises/annalyns-infiltration.svg)
+![car](https://assets.exercism.org/exercises/vehicle-purchase.svg)
 
 ### hello-world
 
@@ -20,6 +21,11 @@
 
 [go](https://veretennikovalexey.github.io/exercism/go/annalyns-infiltration/)
 [js](https://veretennikovalexey.github.io/exercism/javascript/annalyns-infiltration/)
+
+### car
+
+[go](https://veretennikovalexey.github.io/exercism/go/vehicle-purchase/)
+[js](https://veretennikovalexey.github.io/exercism/javascript/vehicle-purchase/)
 
 #### help
 
