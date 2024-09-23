@@ -30,8 +30,8 @@
 
 ### cards
 
-[go](https://exercism.org/tracks/go/exercises/card-tricks)
-[js](https://exercism.org/tracks/javascript/exercises/elyses-enchantments)
+[go](https://veretennikovalexey.github.io/exercism/go/card-tricks)
+[js](https://veretennikovalexey.github.io/exercism/javascript/elyses-enchantments)
 
 #### help
 
