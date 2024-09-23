@@ -1,3 +1,5 @@
+[Вычисление процента дизлайков](https://veretennikovalexey.github.io/exercism/javascript/ds/)
+
 # exercism
 
 [exercism.org](https://exercism.org/dashboard)
