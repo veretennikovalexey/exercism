@@ -6,6 +6,7 @@
 ![lasagna](https://assets.exercism.org/exercises/lasagna.svg)
 ![annalyn](https://assets.exercism.org/exercises/annalyns-infiltration.svg)
 ![car](https://assets.exercism.org/exercises/vehicle-purchase.svg)
+![cards](https://assets.exercism.org/exercises/card-tricks.svg)
 
 ### hello-world
 
@@ -26,6 +27,11 @@
 
 [go](https://veretennikovalexey.github.io/exercism/go/vehicle-purchase/)
 [js](https://veretennikovalexey.github.io/exercism/javascript/vehicle-purchase/)
+
+### cards
+
+[go](https://exercism.org/tracks/go/exercises/card-tricks)
+[js](https://exercism.org/tracks/javascript/exercises/elyses-enchantments)
 
 #### help
 
